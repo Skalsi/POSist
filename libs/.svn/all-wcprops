@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/java/!svn/ver/2/trunk/POSist/libs
+END
+jersey-spring-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-spring-1.8.jar
+END
+jersey-server-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-server-1.8.jar
+END
+jersey-json-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-json-1.8.jar
+END
+asm-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/java/!svn/ver/2/trunk/POSist/libs/asm-3.1.jar
+END
+jackson-jaxrs-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/java/!svn/ver/2/trunk/POSist/libs/jackson-jaxrs-1.7.1.jar
+END
+jersey-atom-abdera-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-atom-abdera-1.8.jar
+END
+jersey-client-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-client-1.8.jar
+END
+jersey-multipart-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-multipart-1.8.jar
+END
+jsr311-api-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/java/!svn/ver/2/trunk/POSist/libs/jsr311-api-1.1.1.jar
+END
+jackson-mapper-asl-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/2/trunk/POSist/libs/jackson-mapper-asl-1.7.1.jar
+END
+jaxb-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/java/!svn/ver/2/trunk/POSist/libs/jaxb-api.jar
+END
+jersey-core-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-core-1.8.jar
+END
+jettison-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/java/!svn/ver/2/trunk/POSist/libs/jettison-1.1.jar
+END
+jackson-core-asl-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/2/trunk/POSist/libs/jackson-core-asl-1.7.1.jar
+END
+jersey-guice-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-guice-1.8.jar
+END
+jersey-apache-client-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-apache-client-1.8.jar
+END
+Utils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/java/!svn/ver/2/trunk/POSist/libs/Utils.jar
+END
+jersey-simple-server-1.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/2/trunk/POSist/libs/jersey-simple-server-1.8.jar
+END
+jsr173_1.0_api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/java/!svn/ver/2/trunk/POSist/libs/jsr173_1.0_api.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/java/!svn/ver/2/trunk/POSist/libs/activation.jar
+END
+jackson-xc-1.7.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/java/!svn/ver/2/trunk/POSist/libs/jackson-xc-1.7.1.jar
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/java/!svn/ver/2/trunk/POSist/src/com/wm/posist
+END
+POSistClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/3/trunk/POSist/src/com/wm/posist/POSistClient.java
+END
+Items.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/java/!svn/ver/2/trunk/POSist/src/com/wm/posist/Items.java
+END
+POSist.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/3/trunk/POSist/src/com/wm/posist/POSist.java
+END
+Bill.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/3/trunk/POSist/src/com/wm/posist/Bill.java
+END
+ItemTaxes.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/2/trunk/POSist/src/com/wm/posist/ItemTaxes.java
+END
+PaymentDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/3/trunk/POSist/src/com/wm/posist/PaymentDetails.java
+END
+InitiateResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/2/trunk/POSist/src/com/wm/posist/InitiateResponse.java
+END
+ItemTax.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/2/trunk/POSist/src/com/wm/posist/ItemTax.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/java/!svn/ver/2/trunk/POSist/src/com/wm/posist/Item.java
+END
