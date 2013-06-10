@@ -1,0 +1,42 @@
+Menu services:
+1.  get menu items   -- will return all items for this outlet/restaurant
+2.  edit menu item   --  item id, item details
+
+Order Flow Services:
+1. initiate order   --   api, deploymentId, tab type, table name, guests, customer, order start time, attendant id/name
+
+2. place order      -- orderId, item data
+
+3. modify order   --  order id, item data
+	- Items All / New ?
+	- If only new, get diff !!
+	- 
+
+4. cancel order   -- order id,  reason for cancellation
+
+5.  generate bill   -- orderId
+
+6.  re-generate bill  -- orderId, reason for re-generation
+
+7.  settle bill  -- orderId, amount paid, payment details (mode, additional info)
+
+8.  finish order -- orderId, finish time
+
+9.  Get table status - Occupied, Reserved, Vaccant. (for all or a particular table)
+
+Item Details:
+identifier  -- item ID
+item number,   -- item number
+ category,  -- category of the item
+super category,  -- super category of item
+rate  -- price of item
+image  -- URL of the image of this item
+
+
+
+
+
+Additionaly we would also like to have:
+1.  Multiple prices per item. eg: diferent prices for single and double scoop ice creams.
+2.  Item add ons   -- These are things like with/without cheese, where in rate is added per addon.
+3.  Coupons or discounts per order/item  -- happy hours or some discount coupon
